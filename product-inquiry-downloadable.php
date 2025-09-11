@@ -3,7 +3,7 @@
  * Plugin Name: Product Inquiry Downloadable
  * Description: Adds a Product Inquiry button (before Add to Cart). Popup captures product info and Name/Email/Phone (intl phone with flags). Saves inquiries, admin list + CSV export, emails admin & customer.
  * Version: 1.0.0
- * Author: ChatGPT
+ * Author: Bilal Siddiq
  */
 
 if ( ! defined( 'ABSPATH' ) ) exit;
